@@ -1,4 +1,4 @@
-# Java_3.10_TrafficLight
+# Java_3.1_TrafficLight
 
 Отрисовка светофора на языке программирования Java. С использованием графики в Java. Классов JFrame, JPanel и примитивных фигур.
 
